@@ -1,1 +1,10 @@
-Temp/UnityLockfile
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+library/
+temp/
+obj/
+build/
+builds/
