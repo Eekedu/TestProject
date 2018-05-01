@@ -246,6 +246,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\animations\r.txt" />
+    <None Include="Assets\music\Lyrics.txt.txt" />
     <None Include="Assets\music\r.txt" />
     <None Include="Assets\prefabs\r.txt" />
     <None Include="Assets\sounds\r.txt" />
