@@ -1,0 +1,7 @@
+diff a/Assets/music/r.txt.meta b/Assets/music/r.txt.meta	(rejected hunks)
+@@ -1,4 +1,5 @@
+ fileFormatVersion: 2
++<<<<<<< HEAD
+ guid: 3e9a5c331da4d7d44b7aaa5cbb352b1f
+ timeCreated: 1525209270
+ =======
