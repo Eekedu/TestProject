@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour {
-    Text hi;
     Text healthtext;
     Text otherText;
     int health = 0;
