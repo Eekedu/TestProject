@@ -12,9 +12,12 @@ public class GameManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         healthtext = GameObject.FindGameObjectWithTag("healthtext").GetComponent<Text>();
+<<<<<<< HEAD
+        fHealthNextThink = Time.fixedTime + 1.0f;
+=======
         otherText = GameObject.FindGameObjectWithTag("blah").GetComponent<Text>();
         otherText.text = "HI THERE";
-        fHealthNextThink = Time.fixedTime + 1.0f;
+>>>>>>> 72945fbca3e1edfa5c7cbb1f101cc496688fffc3
     }
 
     float fHealthNextThink;
